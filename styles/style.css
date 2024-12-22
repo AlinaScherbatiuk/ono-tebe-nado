@@ -360,4 +360,6 @@ a.card-link {
   text-decoration: none;
 }
 
-a.card-link:hover .overlay {opacity: 0.45;}
+a.card-link:hover .overlay {
+  opacity: 0.45;
+}
